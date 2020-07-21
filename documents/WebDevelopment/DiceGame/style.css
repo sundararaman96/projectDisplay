@@ -1,0 +1,52 @@
+.game{
+    background-image: url("images/winterIsComing.jpg");
+    height: 100%;
+    
+    background-color: #232934;
+}
+.refresh{
+text-align: center;
+margin: auto;
+width: 70%;
+}
+.dice{
+    text-align: center;
+    display: inline-block;
+}
+
+h1{
+    font-family: 'Rowdies', cursive;
+    text-shadow: 5px 0 #232934;
+    font-size: 8rem;
+    color: aliceblue;
+}
+a{
+    color:black;
+}
+a:hover{
+    color:blanchedalmond ;
+}
+
+p{
+    font-family: 'Ranchers', cursive;
+    font-size: 2rem;
+    color: Black;
+}
+img{
+    width:70%;
+}
+h2{
+    font-family: 'Lobster', cursive;
+    text-shadow: 5px 0 #232934;
+    font-size: 4rem;
+    color: #05e286;
+}
+
+footer {
+    margin-top: 5%;
+    color: blanchedalmond;
+    text-align: center;
+    font-family: 'Ranchers', cursive;
+    font-size: 2rem;
+  
+  }
